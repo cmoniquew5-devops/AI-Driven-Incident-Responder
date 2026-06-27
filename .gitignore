@@ -1,0 +1,13 @@
+# Ignore the virtual environment folder
+venv/
+.venv/
+
+# Ignore private API keys, tokens, and webhooks
+.env
+
+# Ignore OS-specific clutter
+.DS_Store
+Thumbs.db
+
+# Ignore Word Document backups
+*.docx
