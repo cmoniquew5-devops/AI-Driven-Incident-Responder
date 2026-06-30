@@ -52,7 +52,9 @@ This repository serves as a proof-of-concept for modernizing Security Operations
 
 \## ⚡ Features
 
+> **Simulation Output:** Below is a live incident alert dispatched to Discord after Claude analyzed a brute-force attack signature in the authentication logs.
 
+![Discord Alert Simulation Screenshot](discord_alert.png)
 
 \*   \*\*Real-Time Log Parsing:\*\* Low-overhead scanning of standard Linux/Windows authentication structures.
 
